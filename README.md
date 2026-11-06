@@ -1,7 +1,6 @@
 - nom : Nicod
 - prénom : Laura
-- URL Netlify :
-
+- URL Netlify : https://delightful-meringue-a0ca75.netlify.app/
 # Travail
 
 Documentation JS/DOM : [MDN](https://developer.mozilla.org/fr/)
